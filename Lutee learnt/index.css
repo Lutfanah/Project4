@@ -1,0 +1,23 @@
+div.sample{
+    color: hotpink;
+    background-color: indigo;
+}
+div.highlight{
+    color: lawngreen;
+    background-color: navy;
+}
+div.special.menu{
+    color: greenyellow;
+    background-color: indianred;
+}
+#identifier{
+    color: maroon;
+    background-color: mediumturquoise;
+}
+div p{
+    font-size: 0.7em;
+}
+progress [value]{
+    width: 250px;
+    height: 20px;
+}
